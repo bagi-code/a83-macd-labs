@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "submissionrobbypertama.database.windows.net";
-    $user = "robby";
+    $user = "Robby";
     $pass = "Bagicode@29";
     $db = "dbo.Registration";
 
