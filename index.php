@@ -28,7 +28,7 @@
  <?php
     $host = "submissionrobbypertama.database.windows.net";
     $user = "robby";
-    $pass = "Bagicode@29";
+    $pass = "hayoapapasswordnya?";
     $db = "submissionrobbypertama";
 
     try {
